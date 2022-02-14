@@ -3,7 +3,12 @@ content_type: resource
 description: Regularization Networks
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-520-statistical-learning-theory-and-applications-spring-2003/84ee28ef8362619163a7c6360bb78316_class17.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: class17.pdf
+type: OCWFile
 uid: 84ee28ef-8362-6191-63a7-c6360bb78316
 ---
