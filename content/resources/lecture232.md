@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lecture232.pdf
-type: OCWFile
 uid: 41c8b323-cc11-72c8-686f-db95ed04f7fb
 ---

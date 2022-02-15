@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: mathcamp2.pdf
-type: OCWFile
 uid: 70e8bb73-cc12-89dc-41fa-c4942bbeb2e8
 ---

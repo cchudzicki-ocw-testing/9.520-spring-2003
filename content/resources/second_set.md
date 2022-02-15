@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: second_set.pdf
-type: OCWFile
 uid: 9ba5285e-d355-7d31-aaec-aaf2dbb18949
 ---

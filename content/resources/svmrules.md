@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: svmrules.pdf
-type: OCWFile
 uid: 129254d0-9b98-66c9-6c2f-ed273bbca01c
 ---
