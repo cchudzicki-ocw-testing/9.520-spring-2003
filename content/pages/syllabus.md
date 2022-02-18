@@ -29,7 +29,7 @@ There will be two problem sets, a MATLAB{{< sup "®" >}} assignment, and a final
 Problem Sets
 ------------
 
-See the [assignments]({{< baseurl >}}/pages/assignments) page for the two problem sets.
+See the {{< resource_link 6fb1102b-2dec-5c1a-c69a-5e98af204053 "assignments" >}} page for the two problem sets.
 
 {{< anchor "projects" >}}{{< /anchor >}}Projects
 ------------------------------------------------
